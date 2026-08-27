@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Krushna Gore
 
-<!--
-**krushnagore8/krushnagore8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+PGCP-AC @ C-DAC Bengaluru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Spring Boot • React • SQL • JavaScript
+
+I enjoy building real-world applications and turning ideas into code.
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 BudgetBuddy
+AI-Powered Digital Finance Assistant
+
+🔗 https://github.com/krushnagore8/budget-buddy-ai-finance-assistant
+
+### 💬 Real-Time Chat Application
+Spring Boot • WebSocket • STOMP • SockJS
+
+🔗 https://github.com/krushnagore8/chat-app
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- React
+- JavaScript
+- SQL
+- MySQL
+- Git & GitHub
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/krushna-gore-01409231b/
