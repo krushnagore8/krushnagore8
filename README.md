@@ -1,105 +1,148 @@
-# 👋 Hi, I'm Krushna Gore
+# 👋 Hey, I'm Krushna Gore
 
 ### 💻 Aspiring Software Developer | Java & Backend Enthusiast
 
 🎓 **PGCP-AC @ C-DAC Bengaluru**
 
-I enjoy building **real-world applications**, solving problems, and turning ideas into scalable software.
+<p align="left">
+  <a href="https://www.linkedin.com/in/krushna-gore-01409231b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/krushnagore8">
+    <img src="https://img.shields.io/badge/GitHub-krushnagore8-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently building **AI-powered & full-stack applications**
-* 🌱 Improving my skills in **Java, Spring Boot & DSA**
-* 💡 Interested in **Backend Development & Software Engineering**
+I'm a developer who enjoys **building practical applications and solving real-world problems**.
+
+* 🔭 Currently building **full-stack applications**
+* ☕ Strengthening **Java & Spring Boot**
+* 🧠 Learning **Data Structures & Algorithms**
+* 🌐 Exploring **React & Next.js**
+* 🗄️ Improving **SQL & database development**
 * 🎯 Preparing for **Software Developer opportunities**
-* ⚡ I believe in *learning by building*
+* ⚡ *Learn → Build → Improve → Repeat*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs" />
+</p>
+
+### 🗄️ Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 BudgetBuddy — AI-Powered Digital Finance Assistant
+<table>
+<tr>
+<td width="50%">
 
-> A modern personal finance platform for managing budgets, transactions and financial insights.
+### 💰 BudgetBuddy
 
-**Tech:** `Next.js` `React` `JavaScript` `Prisma` `SQL` `AI`
+**AI-Powered Digital Finance Assistant**
 
-🔗 **[View Project](https://github.com/krushnagore8/budget-buddy-ai-finance-assistant)**
+A personal finance platform for managing budgets, transactions, expenses and financial insights.
+
+**Tech:**
+`Next.js` `React` `JavaScript` `Prisma` `SQL` `AI`
+
+<a href="https://github.com/krushnagore8/budget-buddy-ai-finance-assistant">
+  🔗 View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💬 Real-Time Chat App
+
+**Real-Time Communication Platform**
+
+A real-time chat application using WebSocket technologies for instant communication.
+
+**Tech:**
+`Spring Boot` `WebSocket` `STOMP` `SockJS`
+
+<a href="https://github.com/krushnagore8/chat-app">
+  🔗 View Project →
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💬 Real-Time Chat Application
+## 📚 Currently Learning
 
-> Real-time communication application built with WebSocket technology.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,sql" />
+</p>
 
-**Tech:** `Spring Boot` `WebSocket` `STOMP` `SockJS` `Thymeleaf`
-
-🔗 **[View Project](https://github.com/krushnagore8/chat-app)**
-
----
-
-## 💻 Currently Learning
+**Focus Areas**
 
 ```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- └── DSA
-
-Spring Boot
- ├── REST APIs
- ├── Spring Security
- ├── JPA / Hibernate
- └── Microservices
-
-Development
- ├── React
- ├── SQL
- └── Git & GitHub
+☕ Core Java & OOP
+🧠 Data Structures & Algorithms
+🌱 Spring Boot & REST APIs
+🔐 Spring Security
+🗄️ SQL & Database Design
+⚛️ React & Next.js
+🏗️ Backend Development
 ```
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krushnagore8&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnagore8&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krushnagore8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+* ✅ Build production-style projects
+* 🚀 Become strong in **Java & Spring Boot**
+* 🧠 Master **DSA**
+* 🌐 Build scalable backend applications
+* 💼 Start my career as a **Software Developer**
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/krushna-gore-01409231b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Krushna%20Gore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💭 Developer Quote
+<p align="center">
+  <b>💡 Turning ideas into code.</b>
+</p>
 
-> **"First, solve the problem. Then, write the code."**
-
-⭐ *If you find my projects useful, consider giving them a star!*
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
